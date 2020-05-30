@@ -1,0 +1,11 @@
+{
+  "name": "movie-frame-trimmer",
+  "version": "1.0.0",
+  "description": "Trims unwanted frames from a movie",
+  "author": "Danny Nicholas",
+  "license": "ISC",
+  "dependencies": {
+    "node-datetime": "^2.1.2",
+    "yargs": "^15.1.0"
+  }
+}
